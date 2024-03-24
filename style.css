@@ -91,9 +91,7 @@ header{
     background-color: var(--bgcolor);
     border-radius: 10px;
 }
-.mediastats{
 
-}
 .statcontainer{
     display: grid;
     grid-template-columns: auto auto;
@@ -114,8 +112,7 @@ header{
 .upperwrapper{
     text-align: center;
 }
-.icon{
-}
+
 .number{
     font-size: 5vw;
     color:green;
