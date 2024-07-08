@@ -108,13 +108,13 @@ export function DashboardNavbar() {
             </MenuHandler>
             <MenuList className="w-max border-0">
               <MenuItem className="flex items-center gap-3">
-                {/* <Avatar
+                {<Avatar
                   src="https://demos.creative-tim.com/material-dashboard/assets/img/team-2.jpg"
                   alt="item-1"
                   size="sm"
                   variant="circular"
-                /> */}
-                {/* <div>
+                />}
+                {<div>
                   <Typography
                     variant="small"
                     color="blue-gray"
@@ -129,11 +129,11 @@ export function DashboardNavbar() {
                   >
                     <ClockIcon className="h-3.5 w-3.5" /> 13 minutes ago
                   </Typography>
-                </div> */}
+                </div>}
               </MenuItem>
               <MenuItem className="flex items-center gap-4">
                 <Avatar
-                  src="https://demos.creative-tim.com/material-dashboard/assets/img/small-logos/logo-spotify.svg"
+                  src="/img/logo-spotify.svg"
                   alt="item-1"
                   size="sm"
                   variant="circular"
